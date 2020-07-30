@@ -1,0 +1,20 @@
+quit
+quit
+ls
+clear
+vim &
+ps
+jobs
+kjob -9 0
+jobs
+kill - -9
+kjob 0 -9
+ps
+jobs
+kjob -9 4892
+ps
+jobs
+clear
+ls
+
+quit
